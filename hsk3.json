@@ -1,0 +1,822 @@
+[
+  {
+    "chinese": "图书馆",
+    "pinyin": "túshūguǎn",
+    "english": "– library"
+  },
+  {
+    "chinese": "借",
+    "pinyin": "jiè",
+    "english": "– to borrow"
+  },
+  {
+    "chinese": "词典",
+    "pinyin": "cídiǎn",
+    "english": "– dictionary"
+  },
+  {
+    "chinese": "还",
+    "pinyin": "huán",
+    "english": "/ hái – to return / still"
+  },
+  {
+    "chinese": "灯",
+    "pinyin": "dēng",
+    "english": "– lamp, light"
+  },
+  {
+    "chinese": "会议",
+    "pinyin": "huìyì",
+    "english": "– meeting, conference"
+  },
+  {
+    "chinese": "结束",
+    "pinyin": "jiéshù",
+    "english": "– to finish, end"
+  },
+  {
+    "chinese": "忘记",
+    "pinyin": "wàngjì",
+    "english": "– to forget"
+  },
+  {
+    "chinese": "空调",
+    "pinyin": "kōngtiáo",
+    "english": "– air-conditioner"
+  },
+  {
+    "chinese": "关",
+    "pinyin": "guān",
+    "english": "– to close, turn off"
+  },
+  {
+    "chinese": "地铁",
+    "pinyin": "dìtiě",
+    "english": "– subway, metro"
+  },
+  {
+    "chinese": "双",
+    "pinyin": "shuāng",
+    "english": "– pair; two (MW)"
+  },
+  {
+    "chinese": "筷子",
+    "pinyin": "kuàizi",
+    "english": "– chopsticks"
+  },
+  {
+    "chinese": "啤酒",
+    "pinyin": "píjiǔ",
+    "english": "– beer"
+  },
+  {
+    "chinese": "口",
+    "pinyin": "kǒu",
+    "english": "– mouth; MW for people (family)"
+  },
+  {
+    "chinese": "瓶子",
+    "pinyin": "píngzi",
+    "english": "– bottle"
+  },
+  {
+    "chinese": "笔记本",
+    "pinyin": "电脑",
+    "english": "bǐjìběn (diànnǎo) – laptop (computer) / notebook"
+  },
+  {
+    "chinese": "电子邮件",
+    "pinyin": "diànzǐ",
+    "english": "yóujiàn – e-mail"
+  },
+  {
+    "chinese": "习惯",
+    "pinyin": "xíguàn",
+    "english": "– habit; to be used to"
+  },
+  {
+    "chinese": "太阳",
+    "pinyin": "tàiyáng",
+    "english": "– sun"
+  },
+  {
+    "chinese": "西",
+    "pinyin": "xī",
+    "english": "– west"
+  },
+  {
+    "chinese": "生气",
+    "pinyin": "shēngqì",
+    "english": "– angry; to get angry"
+  },
+  {
+    "chinese": "行李箱",
+    "pinyin": "xínglixiāng",
+    "english": "– suitcase"
+  },
+  {
+    "chinese": "自己",
+    "pinyin": "zìjǐ",
+    "english": "– oneself"
+  },
+  {
+    "chinese": "包",
+    "pinyin": "bāo",
+    "english": "– bag; to wrap"
+  },
+  {
+    "chinese": "发现",
+    "pinyin": "fāxiàn",
+    "english": "– to discover, find"
+  },
+  {
+    "chinese": "护照",
+    "pinyin": "hùzhào",
+    "english": "– passport"
+  },
+  {
+    "chinese": "起飞",
+    "pinyin": "qǐfēi",
+    "english": "– to take off (aircraft)"
+  },
+  {
+    "chinese": "司机",
+    "pinyin": "sījī",
+    "english": "– driver"
+  },
+  {
+    "chinese": "教",
+    "pinyin": "jiāo",
+    "english": "– to teach"
+  },
+  {
+    "chinese": "画",
+    "pinyin": "huà",
+    "english": "– to draw; painting"
+  },
+  {
+    "chinese": "需要",
+    "pinyin": "xūyào",
+    "english": "– to need; need"
+  },
+  {
+    "chinese": "黑板",
+    "pinyin": "hēibǎn",
+    "english": "– blackboard"
+  },
+  {
+    "chinese": "终于",
+    "pinyin": "zhōngyú",
+    "english": "– finally"
+  },
+  {
+    "chinese": "爷爷",
+    "pinyin": "yéye",
+    "english": "– grandfather (paternal)"
+  },
+  {
+    "chinese": "礼物",
+    "pinyin": "lǐwù",
+    "english": "– gift"
+  },
+  {
+    "chinese": "奶奶",
+    "pinyin": "nǎinai",
+    "english": "– grandmother (paternal)"
+  },
+  {
+    "chinese": "遇到",
+    "pinyin": "yùdào",
+    "english": "– to run into, encounter"
+  },
+  {
+    "chinese": "一边",
+    "pinyin": "yìbiān",
+    "english": "– while; at the same time"
+  },
+  {
+    "chinese": "过去",
+    "pinyin": "guòqù",
+    "english": "– past; to pass by"
+  },
+  {
+    "chinese": "一般",
+    "pinyin": "yìbān",
+    "english": "– generally"
+  },
+  {
+    "chinese": "愿意",
+    "pinyin": "yuànyì",
+    "english": "– to be willing"
+  },
+  {
+    "chinese": "起来",
+    "pinyin": "qǐlai",
+    "english": "– to rise; indicating start"
+  },
+  {
+    "chinese": "应该",
+    "pinyin": "yīnggāi",
+    "english": "– should, ought to"
+  },
+  {
+    "chinese": "生活",
+    "pinyin": "*",
+    "english": "shēnghuó – life, livelihood"
+  },
+  {
+    "chinese": "校长",
+    "pinyin": "xiàozhǎng",
+    "english": "– principal, headmaster"
+  },
+  {
+    "chinese": "坏",
+    "pinyin": "huài",
+    "english": "– bad; broken"
+  },
+  {
+    "chinese": "经常",
+    "pinyin": "jīngcháng",
+    "english": "– often"
+  },
+  {
+    "chinese": "打扫",
+    "pinyin": "dǎsǎo",
+    "english": "– to sweep, clean"
+  },
+  {
+    "chinese": "干净",
+    "pinyin": "gānjìng",
+    "english": "– clean (adj.)"
+  },
+  {
+    "chinese": "然后",
+    "pinyin": "ránhòu",
+    "english": "– then, afterwards"
+  },
+  {
+    "chinese": "冰箱",
+    "pinyin": "bīngxiāng",
+    "english": "– refrigerator"
+  },
+  {
+    "chinese": "洗澡",
+    "pinyin": "xǐzǎo",
+    "english": "– to take a bath/shower"
+  },
+  {
+    "chinese": "节目",
+    "pinyin": "jiémù",
+    "english": "– programme (show)"
+  },
+  {
+    "chinese": "月亮",
+    "pinyin": "yuèliàng",
+    "english": "– moon"
+  },
+  {
+    "chinese": "像",
+    "pinyin": "xiàng",
+    "english": "– to look like; image"
+  },
+  {
+    "chinese": "盘子",
+    "pinyin": "pánzi",
+    "english": "– plate, dish"
+  },
+  {
+    "chinese": "刮风",
+    "pinyin": "guāfēng",
+    "english": "– (of wind) to blow; windy"
+  },
+  {
+    "chinese": "叔叔",
+    "pinyin": "shūshu",
+    "english": "– uncle (father’s younger brother); polite address"
+  },
+  {
+    "chinese": "阿姨",
+    "pinyin": "āyí",
+    "english": "– aunt; polite address"
+  },
+  {
+    "chinese": "故事",
+    "pinyin": "gùshi",
+    "english": "– story"
+  },
+  {
+    "chinese": "声音",
+    "pinyin": "shēngyīn",
+    "english": "– sound, voice"
+  },
+  {
+    "chinese": "菜单",
+    "pinyin": "càidān",
+    "english": "– menu"
+  },
+  {
+    "chinese": "简单",
+    "pinyin": "jiǎndān",
+    "english": "– simple"
+  },
+  {
+    "chinese": "香蕉",
+    "pinyin": "xiāngjiāo",
+    "english": "– banana"
+  },
+  {
+    "chinese": "留学",
+    "pinyin": "liúxué",
+    "english": "– to study abroad"
+  },
+  {
+    "chinese": "水平",
+    "pinyin": "shuǐpíng",
+    "english": "– level, standard"
+  },
+  {
+    "chinese": "提高",
+    "pinyin": "tígāo",
+    "english": "– to raise, improve"
+  },
+  {
+    "chinese": "练习",
+    "pinyin": "liànxí",
+    "english": "– to practise; exercise"
+  },
+  {
+    "chinese": "完成",
+    "pinyin": "wánchéng",
+    "english": "– to complete"
+  },
+  {
+    "chinese": "句子",
+    "pinyin": "jùzi",
+    "english": "– sentence"
+  },
+  {
+    "chinese": "其他",
+    "pinyin": "qítā",
+    "english": "– other"
+  },
+  {
+    "chinese": "发",
+    "pinyin": "fā",
+    "english": "– to send out; to grow (hair)"
+  },
+  {
+    "chinese": "要求",
+    "pinyin": "yāoqiú",
+    "english": "– requirement; to demand"
+  },
+  {
+    "chinese": "注意",
+    "pinyin": "zhùyì",
+    "english": "– to pay attention"
+  },
+  {
+    "chinese": "上网",
+    "pinyin": "shàngwǎng",
+    "english": "– to go online"
+  },
+  {
+    "chinese": "除了",
+    "pinyin": "chúle",
+    "english": "– except; besides"
+  },
+  {
+    "chinese": "新闻",
+    "pinyin": "xīnwén",
+    "english": "– news"
+  },
+  {
+    "chinese": "花",
+    "pinyin": "huā",
+    "english": "– flower; to spend (money/time)"
+  },
+  {
+    "chinese": "极",
+    "pinyin": "了",
+    "english": "jí(le) – extremely"
+  },
+  {
+    "chinese": "节日",
+    "pinyin": "jiérì",
+    "english": "– festival, holiday"
+  },
+  {
+    "chinese": "举行",
+    "pinyin": "*",
+    "english": "jǔxíng – to hold (an event)"
+  },
+  {
+    "chinese": "世界",
+    "pinyin": "shìjiè",
+    "english": "– world"
+  },
+  {
+    "chinese": "街道",
+    "pinyin": "jiēdào",
+    "english": "– street"
+  },
+  {
+    "chinese": "各",
+    "pinyin": "*",
+    "english": "gè – each, every"
+  },
+  {
+    "chinese": "文化",
+    "pinyin": "wénhuà",
+    "english": "– culture"
+  },
+  {
+    "chinese": "小云",
+    "pinyin": "Xiǎo",
+    "english": "Yún – (name)"
+  },
+  {
+    "chinese": "城市",
+    "pinyin": "chéngshì",
+    "english": "– city"
+  },
+  {
+    "chinese": "如果",
+    "pinyin": "rúguǒ",
+    "english": "– if"
+  },
+  {
+    "chinese": "认为",
+    "pinyin": "rènwéi",
+    "english": "– to think, believe"
+  },
+  {
+    "chinese": "皮鞋",
+    "pinyin": "píxié",
+    "english": "– leather shoes"
+  },
+  {
+    "chinese": "帽子",
+    "pinyin": "màozi",
+    "english": "– hat, cap"
+  },
+  {
+    "chinese": "长",
+    "pinyin": "cháng",
+    "english": "/ zhǎng – long / to grow"
+  },
+  {
+    "chinese": "可爱",
+    "pinyin": "kě’ài",
+    "english": "– lovely, cute"
+  },
+  {
+    "chinese": "米",
+    "pinyin": "mǐ",
+    "english": "– metre; rice (uncooked)"
+  },
+  {
+    "chinese": "公斤",
+    "pinyin": "gōngjīn",
+    "english": "– kilogram"
+  },
+  {
+    "chinese": "鼻子",
+    "pinyin": "bízi",
+    "english": "– nose"
+  },
+  {
+    "chinese": "头发",
+    "pinyin": "tóufa",
+    "english": "– hair"
+  },
+  {
+    "chinese": "检查",
+    "pinyin": "jiǎnchá",
+    "english": "– to examine, inspect"
+  },
+  {
+    "chinese": "刷牙",
+    "pinyin": "shuāyá",
+    "english": "– to brush teeth"
+  },
+  {
+    "chinese": "关系",
+    "pinyin": "guānxì",
+    "english": "– relationship"
+  },
+  {
+    "chinese": "别人",
+    "pinyin": "biérén",
+    "english": "– other people"
+  },
+  {
+    "chinese": "词语",
+    "pinyin": "*",
+    "english": "cíyǔ – word, expression"
+  },
+  {
+    "chinese": "请假",
+    "pinyin": "qǐngjià",
+    "english": "– to ask for leave"
+  },
+  {
+    "chinese": "一共",
+    "pinyin": "yígòng",
+    "english": "– altogether"
+  },
+  {
+    "chinese": "邻居",
+    "pinyin": "línjū",
+    "english": "– neighbour"
+  },
+  {
+    "chinese": "后来",
+    "pinyin": "hòulái",
+    "english": "– afterwards"
+  },
+  {
+    "chinese": "爱好",
+    "pinyin": "àihào",
+    "english": "– hobby"
+  },
+  {
+    "chinese": "办法",
+    "pinyin": "bànfǎ",
+    "english": "– method, way"
+  },
+  {
+    "chinese": "饱",
+    "pinyin": "bǎo",
+    "english": "– full (after eating)"
+  },
+  {
+    "chinese": "为了",
+    "pinyin": "wèile",
+    "english": "– in order to"
+  },
+  {
+    "chinese": "决定",
+    "pinyin": "juédìng",
+    "english": "– decision; to decide"
+  },
+  {
+    "chinese": "选择",
+    "pinyin": "xuǎnzé",
+    "english": "– choice; to choose"
+  },
+  {
+    "chinese": "冬",
+    "pinyin": "天",
+    "english": "dōng(tiān) – winter"
+  },
+  {
+    "chinese": "必须",
+    "pinyin": "bìxū",
+    "english": "– must"
+  },
+  {
+    "chinese": "根据",
+    "pinyin": "gēnjù",
+    "english": "– according to; basis"
+  },
+  {
+    "chinese": "情况",
+    "pinyin": "*",
+    "english": "qíngkuàng – situation"
+  },
+  {
+    "chinese": "口",
+    "pinyin": "kǒu",
+    "english": "– mouth; MW (family)"
+  },
+  {
+    "chinese": "渴",
+    "pinyin": "kě",
+    "english": "– thirsty"
+  },
+  {
+    "chinese": "向",
+    "pinyin": "xiàng",
+    "english": "– towards; to"
+  },
+  {
+    "chinese": "万",
+    "pinyin": "wàn",
+    "english": "– ten-thousand"
+  },
+  {
+    "chinese": "只",
+    "pinyin": "zhī",
+    "english": "/ zhǐ – MW for animals / only"
+  },
+  {
+    "chinese": "嘴",
+    "pinyin": "zuǐ",
+    "english": "– mouth"
+  },
+  {
+    "chinese": "动物",
+    "pinyin": "dòngwù",
+    "english": "– animal"
+  },
+  {
+    "chinese": "段",
+    "pinyin": "duàn",
+    "english": "– section, segment"
+  },
+  {
+    "chinese": "不但……而且……",
+    "pinyin": "búdàn…",
+    "english": "érqiě… – not only…but also…"
+  },
+  {
+    "chinese": "有名",
+    "pinyin": "yǒumíng",
+    "english": "– famous"
+  },
+  {
+    "chinese": "同意",
+    "pinyin": "tóngyì",
+    "english": "– to agree"
+  },
+  {
+    "chinese": "相信",
+    "pinyin": "xiāngxìn",
+    "english": "– to believe"
+  },
+  {
+    "chinese": "关于",
+    "pinyin": "guānyú",
+    "english": "– about, regarding"
+  },
+  {
+    "chinese": "机会",
+    "pinyin": "jīhuì",
+    "english": "– opportunity"
+  },
+  {
+    "chinese": "国家",
+    "pinyin": "guójiā",
+    "english": "– country, nation"
+  },
+  {
+    "chinese": "种",
+    "pinyin": "zhǒng",
+    "english": "/ zhòng – kind; to plant"
+  },
+  {
+    "chinese": "特点",
+    "pinyin": "*",
+    "english": "tèdiǎn – characteristic"
+  },
+  {
+    "chinese": "奇怪",
+    "pinyin": "qíguài",
+    "english": "– strange"
+  },
+  {
+    "chinese": "地",
+    "pinyin": "de",
+    "english": "/ dì – (adv. suffix) / earth, land"
+  },
+  {
+    "chinese": "耳朵",
+    "pinyin": "ěrduo",
+    "english": "– ear"
+  },
+  {
+    "chinese": "脸",
+    "pinyin": "liǎn",
+    "english": "– face"
+  },
+  {
+    "chinese": "短",
+    "pinyin": "duǎn",
+    "english": "– short (length)"
+  },
+  {
+    "chinese": "马",
+    "pinyin": "mǎ",
+    "english": "– horse"
+  },
+  {
+    "chinese": "张",
+    "pinyin": "zhāng",
+    "english": "– MW for flat objects; surname"
+  },
+  {
+    "chinese": "位",
+    "pinyin": "wèi",
+    "english": "– MW for people (polite)"
+  },
+  {
+    "chinese": "蓝",
+    "pinyin": "lán",
+    "english": "– blue"
+  },
+  {
+    "chinese": "秋",
+    "pinyin": "天",
+    "english": "qiū(tiān) – autumn"
+  },
+  {
+    "chinese": "过",
+    "pinyin": "guò",
+    "english": "– to pass; particle for experience"
+  },
+  {
+    "chinese": "鸟",
+    "pinyin": "niǎo",
+    "english": "– bird"
+  },
+  {
+    "chinese": "哭",
+    "pinyin": "kū",
+    "english": "– to cry"
+  },
+  {
+    "chinese": "黄河",
+    "pinyin": "Huáng",
+    "english": "Hé – the Yellow River"
+  },
+  {
+    "chinese": "船",
+    "pinyin": "chuán",
+    "english": "– boat, ship"
+  },
+  {
+    "chinese": "经过",
+    "pinyin": "jīngguò",
+    "english": "– to pass by; process"
+  },
+  {
+    "chinese": "照相机",
+    "pinyin": "zhàoxiàngjī",
+    "english": "– camera"
+  },
+  {
+    "chinese": "被",
+    "pinyin": "bèi",
+    "english": "– (passive marker); quilt"
+  },
+  {
+    "chinese": "难过",
+    "pinyin": "nánguò",
+    "english": "– sad, upset"
+  },
+  {
+    "chinese": "东",
+    "pinyin": "dōng",
+    "english": "– east / thing (context)"
+  },
+  {
+    "chinese": "信用卡",
+    "pinyin": "xìnyòngkǎ",
+    "english": "– credit card"
+  },
+  {
+    "chinese": "关心",
+    "pinyin": "guānxīn",
+    "english": "– to care about"
+  },
+  {
+    "chinese": "只有……才……",
+    "pinyin": "zhǐyǒu…",
+    "english": "cái… – only if… then…"
+  },
+  {
+    "chinese": "成绩",
+    "pinyin": "chéngjì",
+    "english": "– grade, result"
+  },
+  {
+    "chinese": "碗",
+    "pinyin": "wǎn",
+    "english": "– bowl"
+  },
+  {
+    "chinese": "分",
+    "pinyin": "fēn",
+    "english": "– minute; to divide; point/score"
+  },
+  {
+    "chinese": "解决",
+    "pinyin": "jiějué",
+    "english": "– to solve"
+  },
+  {
+    "chinese": "试",
+    "pinyin": "shì",
+    "english": "– to try; test"
+  },
+  {
+    "chinese": "真正",
+    "pinyin": "*",
+    "english": "zhēnzhèng – real, true"
+  },
+  {
+    "chinese": "多么",
+    "pinyin": "duōme",
+    "english": "– how (exclamatory)"
+  }
+]
